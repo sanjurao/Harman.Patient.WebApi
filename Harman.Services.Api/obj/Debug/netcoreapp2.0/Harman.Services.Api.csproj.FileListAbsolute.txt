@@ -1,0 +1,16 @@
+C:\Personal\MyPractices\Harman.Patient.Demographics.Api\Harman.Services.Api\bin\Debug\netcoreapp2.0\Harman.Services.Api.deps.json
+C:\Personal\MyPractices\Harman.Patient.Demographics.Api\Harman.Services.Api\bin\Debug\netcoreapp2.0\Harman.Services.Api.runtimeconfig.json
+C:\Personal\MyPractices\Harman.Patient.Demographics.Api\Harman.Services.Api\bin\Debug\netcoreapp2.0\Harman.Services.Api.runtimeconfig.dev.json
+C:\Personal\MyPractices\Harman.Patient.Demographics.Api\Harman.Services.Api\bin\Debug\netcoreapp2.0\Harman.Services.Api.dll
+C:\Personal\MyPractices\Harman.Patient.Demographics.Api\Harman.Services.Api\bin\Debug\netcoreapp2.0\Harman.Services.Api.pdb
+C:\Personal\MyPractices\Harman.Patient.Demographics.Api\Harman.Services.Api\bin\Debug\netcoreapp2.0\Harman.Business.dll
+C:\Personal\MyPractices\Harman.Patient.Demographics.Api\Harman.Services.Api\bin\Debug\netcoreapp2.0\Harman.Data.Entity.dll
+C:\Personal\MyPractices\Harman.Patient.Demographics.Api\Harman.Services.Api\bin\Debug\netcoreapp2.0\Harman.Business.pdb
+C:\Personal\MyPractices\Harman.Patient.Demographics.Api\Harman.Services.Api\bin\Debug\netcoreapp2.0\Harman.Data.Entity.pdb
+C:\Personal\MyPractices\Harman.Patient.Demographics.Api\Harman.Services.Api\obj\Debug\netcoreapp2.0\Harman.Services.Api.csprojResolveAssemblyReference.cache
+C:\Personal\MyPractices\Harman.Patient.Demographics.Api\Harman.Services.Api\obj\Debug\netcoreapp2.0\Harman.Services.Api.csproj.CoreCompileInputs.cache
+C:\Personal\MyPractices\Harman.Patient.Demographics.Api\Harman.Services.Api\obj\Debug\netcoreapp2.0\Harman.Services.Api.AssemblyInfoInputs.cache
+C:\Personal\MyPractices\Harman.Patient.Demographics.Api\Harman.Services.Api\obj\Debug\netcoreapp2.0\Harman.Services.Api.AssemblyInfo.cs
+C:\Personal\MyPractices\Harman.Patient.Demographics.Api\Harman.Services.Api\obj\Debug\netcoreapp2.0\Harman.Services.Api.csproj.CopyComplete
+C:\Personal\MyPractices\Harman.Patient.Demographics.Api\Harman.Services.Api\obj\Debug\netcoreapp2.0\Harman.Services.Api.dll
+C:\Personal\MyPractices\Harman.Patient.Demographics.Api\Harman.Services.Api\obj\Debug\netcoreapp2.0\Harman.Services.Api.pdb

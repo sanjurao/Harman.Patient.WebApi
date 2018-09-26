@@ -1,0 +1,12 @@
+C:\Personal\MyPractices\Harman.Patient.Demographics.Api\Harman.Business\bin\Debug\netcoreapp2.0\Harman.Business.deps.json
+C:\Personal\MyPractices\Harman.Patient.Demographics.Api\Harman.Business\bin\Debug\netcoreapp2.0\Harman.Business.dll
+C:\Personal\MyPractices\Harman.Patient.Demographics.Api\Harman.Business\bin\Debug\netcoreapp2.0\Harman.Business.pdb
+C:\Personal\MyPractices\Harman.Patient.Demographics.Api\Harman.Business\bin\Debug\netcoreapp2.0\Harman.Data.Entity.dll
+C:\Personal\MyPractices\Harman.Patient.Demographics.Api\Harman.Business\bin\Debug\netcoreapp2.0\Harman.Data.Entity.pdb
+C:\Personal\MyPractices\Harman.Patient.Demographics.Api\Harman.Business\obj\Debug\netcoreapp2.0\Harman.Business.csprojResolveAssemblyReference.cache
+C:\Personal\MyPractices\Harman.Patient.Demographics.Api\Harman.Business\obj\Debug\netcoreapp2.0\Harman.Business.csproj.CoreCompileInputs.cache
+C:\Personal\MyPractices\Harman.Patient.Demographics.Api\Harman.Business\obj\Debug\netcoreapp2.0\Harman.Business.AssemblyInfoInputs.cache
+C:\Personal\MyPractices\Harman.Patient.Demographics.Api\Harman.Business\obj\Debug\netcoreapp2.0\Harman.Business.AssemblyInfo.cs
+C:\Personal\MyPractices\Harman.Patient.Demographics.Api\Harman.Business\obj\Debug\netcoreapp2.0\Harman.Business.csproj.CopyComplete
+C:\Personal\MyPractices\Harman.Patient.Demographics.Api\Harman.Business\obj\Debug\netcoreapp2.0\Harman.Business.dll
+C:\Personal\MyPractices\Harman.Patient.Demographics.Api\Harman.Business\obj\Debug\netcoreapp2.0\Harman.Business.pdb

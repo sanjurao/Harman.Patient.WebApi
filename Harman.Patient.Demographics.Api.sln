@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2011
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harman.Business", "Harman.Business\Harman.Business.csproj", "{092F2AA0-5E42-402B-953F-BA17C4BF08D5}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harman.Services.Api", "Harman.Services.Api\Harman.Services.Api.csproj", "{8734A2D8-684C-449D-AF70-2C37C94F033C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harman.Data.Entity", "Harman.Patient.Demographics.Api\Harman.Data.Entity.csproj", "{2D803C3C-D926-4954-9C72-E6017A318153}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Harman.Services.Webapi.Tests", "Harman.Services.Webapi.Tests\Harman.Services.Webapi.Tests.csproj", "{64ADA49F-2B39-4BB5-ACBE-DE7159031EBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{092F2AA0-5E42-402B-953F-BA17C4BF08D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{092F2AA0-5E42-402B-953F-BA17C4BF08D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{092F2AA0-5E42-402B-953F-BA17C4BF08D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{092F2AA0-5E42-402B-953F-BA17C4BF08D5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8734A2D8-684C-449D-AF70-2C37C94F033C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8734A2D8-684C-449D-AF70-2C37C94F033C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8734A2D8-684C-449D-AF70-2C37C94F033C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8734A2D8-684C-449D-AF70-2C37C94F033C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D803C3C-D926-4954-9C72-E6017A318153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D803C3C-D926-4954-9C72-E6017A318153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D803C3C-D926-4954-9C72-E6017A318153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D803C3C-D926-4954-9C72-E6017A318153}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64ADA49F-2B39-4BB5-ACBE-DE7159031EBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64ADA49F-2B39-4BB5-ACBE-DE7159031EBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64ADA49F-2B39-4BB5-ACBE-DE7159031EBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64ADA49F-2B39-4BB5-ACBE-DE7159031EBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9335C21-D7FB-4B64-9750-8AE079159E80}
+	EndGlobalSection
+EndGlobal
